@@ -267,17 +267,6 @@ python server.py
 
 ---
 
-# 5. 주의사항
 
-- `cookies.json`, API 키, MongoDB URI 등 **민감 정보는 절대 공개 저장소에 올리지 마세요.**
-- TikTok 이용 약관 및 저작권 정책을 반드시 준수해야 합니다.
-- 수집된 데이터는 연구/개발 목적 내에서만 사용하고, 제3자 공개 시 반드시 권리 관계를 확인해야 합니다.
 
----
-
-# 6. Author
-
-- GitHub: **ga0n0427**
-- Project: **TikTok Live Commerce Classifier**
-- Keywords: TikTok, Live Commerce, CLIP, Multimodal Classification, Crawling, LLM
 
